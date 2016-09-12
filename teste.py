@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# Hash Identifier v1.1
-# By Zion3R
-# www.Blackploit.com
-# Root@Blackploit.com
+# ---
+# ---
+# ---
+# ---
 
 logo='''   
       	        	          _HASH ANALISE_					            
